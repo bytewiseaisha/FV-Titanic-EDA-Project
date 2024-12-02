@@ -19,3 +19,7 @@ Analyze the Titanic dataset (`Titanic.csv`) to extract insights using tools like
 - Pandas  
 - Numpy  
 - Matplotlib  
+
+## Dataset
+- Titanic dataset
+- Source: Kaggle 
